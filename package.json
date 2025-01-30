@@ -1,0 +1,25 @@
+{
+   "name": "stage-0",
+   "version": "1.0.0",
+   "description": "HNG Stage-0 Task",
+   "main": "index.js",
+   "type": "module",
+   "scripts": {
+      "start": "nodemon index.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/FruitfulEjiro/HNG-Stage-0.git"
+   },
+   "author": "Fruitful Ejiro",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/FruitfulEjiro/HNG-Stage-0/issues"
+   },
+   "homepage": "https://github.com/FruitfulEjiro/HNG-Stage-0#readme",
+   "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.21.2",
+      "nodemon": "^3.1.9"
+   }
+}
