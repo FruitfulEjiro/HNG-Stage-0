@@ -1,8 +1,6 @@
 # HNG-Stage-0
 
 ## Project Description
-
-HNG Stage-0 Task /n
 This is a simple public API developed for the HNG12 Internship, designed to return essential information in JSON format. The API provides the following details:
 
 1. My email address.
@@ -22,13 +20,13 @@ This is a simple public API developed for the HNG12 Internship, designed to retu
 
 ## API Documentation
 
--  **Endpoint URL**: `GET /`
+-  **Endpoint URL**: `GET /api/me`
 -  **Request Format**: No specific request body.
 -  **Response Format**:
    ```json
    {
       "email": "fruitful186@gmail.com",
-      "current_datetime": "2023-10-01T12:00:00Z",
+      "current_datetime": "2025-01-30T12:00:00Z",
       "github_url": "https://github.com/FruitfulEjiro/HNG-Stage-0"
    }
    ```
