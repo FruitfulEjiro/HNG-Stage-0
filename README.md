@@ -21,7 +21,7 @@ This is a simple public API developed for the HNG12 Internship, designed to retu
 
 ## API Documentation
 
--  **Endpoint URL**: `GET http://localhost:3000/me`
+-  **Endpoint URL**: `GET https://hng-stage-0-delta.vercel.app/`
 -  **Request Format**: No specific request body.
 -  **Response Format**:
    ```json
@@ -32,9 +32,8 @@ This is a simple public API developed for the HNG12 Internship, designed to retu
    }
    ```
 -  **Example Usage**:
-   -  You can test the API by sending a GET request to `http://localhost:3000/me`.
+   -  You can test the API by sending a GET request to `https://hng-stage-0-delta.vercel.app/`.
 
 ## Backlink
 
 -  [Hire NodeJS Developers](https://hng.tech/hire/nodejs-developers)
--  [HNG Internship](https://hng.tech/internship)
