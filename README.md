@@ -1,6 +1,7 @@
 # HNG-Stage-0
 
 ## Project Description
+
 This is a simple public API developed for the HNG12 Internship, designed to return essential information in JSON format. The API provides the following details:
 
 1. My email address.
@@ -20,7 +21,7 @@ This is a simple public API developed for the HNG12 Internship, designed to retu
 
 ## API Documentation
 
--  **Endpoint URL**: `GET /api/me`
+-  **Endpoint URL**: `GET http://localhost:3000/me`
 -  **Request Format**: No specific request body.
 -  **Response Format**:
    ```json
@@ -31,8 +32,9 @@ This is a simple public API developed for the HNG12 Internship, designed to retu
    }
    ```
 -  **Example Usage**:
-   -  You can test the API by sending a GET request to `http://localhost:3000/api/me`.
+   -  You can test the API by sending a GET request to `http://localhost:3000/me`.
 
 ## Backlink
 
 -  [Hire NodeJS Developers](https://hng.tech/hire/nodejs-developers)
+-  [HNG Internship](https://hng.tech/internship)
