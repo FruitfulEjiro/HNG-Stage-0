@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.use("/api/me", myData);
+app.get("/", myData)
 
 // Listen for requests on the server
 const PORT = 3000;
