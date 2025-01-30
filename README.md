@@ -2,7 +2,7 @@
 
 ## Project Description
 
-HNG Stage-0 Task
+HNG Stage-0 Task /n
 This is a simple public API developed for the HNG12 Internship, designed to return essential information in JSON format. The API provides the following details:
 
 1. My email address.
